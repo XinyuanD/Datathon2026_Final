@@ -32,3 +32,7 @@ Performance Metrics:
 - Trend Forecasting: By utilizing the z_delta (momentum) feature, the model identifies not only where health gaps exist but also where they are widening fastest, enabling targeted policy interventions.
 - Intervention Simulation: The model quantifies the predictive power of social determinants, showing that a group’s historical trend is a stronger predictor of future access than the specific disease type itself.
 - Scalability: The framework is designed to ingest new CDC data annually, automatically updating the "Moving Average" and "Momentum" features to provide continuous monitoring of U.S. healthcare equity.
+
+
+![top 10 features gain](https://github.com/XinyuanD/Datathon2026_Final/blob/main/top_10_features_gain.png?raw=true)
+
